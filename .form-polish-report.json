@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "Hotels": {
+      "placeholders_set": 10,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten zur Hotelerfassung — keine numerischen Berechnungen, keine Datumspaare, keine applookup-Preis-Ketten"
+    },
+    "Standorte": {
+      "placeholders_set": 5,
+      "defaults_keys": ["raumtyp"],
+      "computed_keys": [],
+      "reason": "Standort-Master-Daten mit Hotel-Referenz und Raumtyp-Lookup — kein numerisches oder berechenbares Feld vorhanden"
+    },
+    "Seifenspender": {
+      "placeholders_set": 8,
+      "defaults_keys": ["installationsdatum", "status"],
+      "computed_keys": [],
+      "reason": "Inventar-Master mit Installationsdatum (Vorbelegung heute) und Status-Lookup (aktiv) — keine Datumspaare/Dauern, keine Preis-Berechnungen"
+    },
+    "Wartungsprotokoll": {
+      "placeholders_set": 7,
+      "defaults_keys": ["datum_uhrzeit", "massnahme"],
+      "computed_keys": [],
+      "reason": "Wartungs-Log mit Zeitstempel (withTime) und Maßnahmen-Lookup (Nachfüllung häufigst) — Log-Entity ohne Berechnungen"
+    }
+  }
+}

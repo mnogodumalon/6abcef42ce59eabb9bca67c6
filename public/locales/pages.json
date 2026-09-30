@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "en": {
+      "Aktiv": "Active",
+      "Alle Spender aktiv — kein sofortiger Handlungsbedarf.": "All dispensers active — no immediate action required.",
+      "Defekt": "Defective",
+      "Füllstand-Verteilung": "Fill Level Distribution",
+      "Gesamt": "Total",
+      "Heute fällig": "Due Today",
+      "Hotel anlegen": "Create Hotel",
+      "Kein Standort": "No Location",
+      "Keine Wartungen fällig — aber einige Spender haben niedrigen Füllstand.": "No maintenances due — but some dispensers have a low fill level.",
+      "Keine fälligen Wartungen — alles im grünen Bereich.": "No maintenances due — everything is in order.",
+      "Leer": "Empty",
+      "Lege zunächst ein Hotel und einen Standort an, dann füge den ersten Spender hinzu.": "First create a hotel and a location, then add the first dispenser.",
+      "Letzte Wartungen": "Recent Maintenances",
+      "Noch keine Seifenspender erfasst": "No soap dispensers recorded yet",
+      "Noch keine Spender erfasst — lege jetzt den ersten an.": "No dispensers recorded yet — create the first one now.",
+      "Noch keine Wartungen erfasst.": "No maintenances recorded yet.",
+      "Spender": "Dispenser",
+      "Spender anlegen": "Create Dispenser",
+      "Spender hinzufügen": "Add Dispenser",
+      "Spender ist leer": "Dispenser is empty",
+      "Spender sind leer": "Dispensers are empty",
+      "Status auf {0} gesetzt": "Status set to {0}",
+      "Wartung": "Maintenance",
+      "Wartung erfassen": "Log Maintenance",
+      "Wartungen fällig": "Maintenances Due",
+      "benötigen": "require",
+      "benötigt": "requires",
+      "ist defekt oder außer Betrieb": "is defective or out of service",
+      "sind defekt oder außer Betrieb": "are defective or out of service",
+      "sofortiger Handlungsbedarf": "immediate action required",
+      "{0} {1} sofortige Aufmerksamkeit.": "{0} {1} immediate attention.",
+      "{0} {1} und müssen nachgefüllt werden.": "{0} {1} and need to be refilled.",
+      "Überfällig": "Overdue"
+    }
+  },
+  "v": 1
+}

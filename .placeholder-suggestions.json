@@ -1,0 +1,40 @@
+{
+  "HotelsDialog.tsx": {
+    "hotel_name": "z. B. Grand Hotel Leipzig",
+    "strasse": "z. B. Hauptstraße",
+    "hausnummer": "z. B. 42",
+    "postleitzahl": "z. B. 04109",
+    "stadt": "z. B. Leipzig",
+    "land": "z. B. Deutschland",
+    "ansprechpartner_vorname": "z. B. Max",
+    "ansprechpartner_nachname": "z. B. Mustermann",
+    "email": "z. B. max@grandhotel.de",
+    "anzahl_zimmer": "z. B. 150"
+  },
+  "StandorteDialog.tsx": {
+    "hotel": "Welches Hotel?",
+    "standort_bezeichnung": "z. B. Empfangsbereich Ost",
+    "stockwerk": "z. B. EG",
+    "raumtyp": "Raumtyp wählen",
+    "standort_beschreibung": "Besonderheiten, Zugänglichkeit, Verkehrslage..."
+  },
+  "SeifenspenderDialog.tsx": {
+    "standort": "Welcher Standort?",
+    "seriennummer": "z. B. SX-2025-001",
+    "modell": "z. B. Wepa 3000 Premium",
+    "seifentyp": "Seifentyp wählen",
+    "fuellstand": "Aktuellen Füllstand ankreuzen",
+    "status": "Status ankreuzen",
+    "installationsdatum": "Wann wurde installiert?",
+    "naechste_wartung": "Wann ist die nächste Wartung?"
+  },
+  "WartungsprotokollDialog.tsx": {
+    "seifenspender": "Welcher Spender?",
+    "datum_uhrzeit": "Wann wurde die Wartung durchgeführt?",
+    "massnahme": "Art der Maßnahme wählen",
+    "fuellstand_nach_wartung": "Füllstand nach der Maßnahme",
+    "durchgefuehrt_von_vorname": "z. B. Anna",
+    "durchgefuehrt_von_nachname": "z. B. Müller",
+    "bemerkungen_wartung": "Beobachtungen, Fehlermeldungen, Reparaturbericht..."
+  }
+}
